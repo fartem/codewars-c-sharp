@@ -14,9 +14,10 @@
             B = b;
         }
 
-        public bool Result()
+        public bool Solution()
         {
             return Number % A == Number % B;
         }
     }
 }
+
