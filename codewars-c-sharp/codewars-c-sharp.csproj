@@ -5,6 +5,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>codewars_c_sharp</RootNamespace>
     <Platforms>AnyCPU;x64</Platforms>
+    <TestProjectType>UnitTest</TestProjectType>
   </PropertyGroup>
 
   <ItemGroup>
