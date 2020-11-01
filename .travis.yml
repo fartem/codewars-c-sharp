@@ -2,7 +2,7 @@ language: csharp
 solution: codewars-c-sharp.sln
 
 install:
-  - nuget restore solution-name.sln
+  - nuget restore codewars-c-sharp.sln
   - nuget install NUnit.Console -Version 3.9.0 -OutputDirectory testrunner
 
 script:
