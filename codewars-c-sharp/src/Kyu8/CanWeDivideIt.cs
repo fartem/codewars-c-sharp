@@ -1,6 +1,6 @@
 ﻿namespace codewars_c_sharp.src.Kyu8
 {
-    // https://www.codewars.com/kata/5a2b703dc5e2845c0900005a/train/csharp
+    // https://www.codewars.com/kata/5a2b703dc5e2845c0900005a
     class CanWeDivideIt
     {
         private int Number;
