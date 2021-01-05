@@ -14,4 +14,8 @@
     <PackageReference Include="NUnit3TestAdapter" Version="3.17.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="src\Kyu7\" />
+    <Folder Include="tests\Kyu7\" />
+  </ItemGroup>
 </Project>
