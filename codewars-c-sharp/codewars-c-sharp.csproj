@@ -17,5 +17,7 @@
   <ItemGroup>
     <Folder Include="src\Kyu7\" />
     <Folder Include="tests\Kyu7\" />
+    <Folder Include="src\Kyu5\" />
+    <Folder Include="tests\Kyu5\" />
   </ItemGroup>
 </Project>
