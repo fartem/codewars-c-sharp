@@ -26,6 +26,12 @@ Profile on Codewars: https://www.codewars.com/users/fartem.
 | --- | --- | --- |
 | Isograms | [Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1) | [Link](./codewars-c-sharp/src/Kyu7/Isograms.cs) |
 
+### 6 kyu
+
+| Name | Link to Codewars | List to solution |
+| --- | --- | --- |
+| Replace With Alphabet Position | [Link](https://www.codewars.com/kata/546f922b54af40e1e90001da) | [Link](./codewars-c-sharp/src/Kyu6/ReplaceWithAlphabetPosition.cs) |
+
 ### 5 kyu
 
 | Name | Link to Codewars | List to solution |

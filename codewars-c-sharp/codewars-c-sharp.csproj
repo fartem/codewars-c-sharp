@@ -19,5 +19,7 @@
     <Folder Include="tests\Kyu7\" />
     <Folder Include="src\Kyu5\" />
     <Folder Include="tests\Kyu5\" />
+    <Folder Include="src\Kyu6\" />
+    <Folder Include="tests\Kyu6\" />
   </ItemGroup>
 </Project>
