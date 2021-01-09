@@ -26,6 +26,7 @@ Profile on Codewars: https://www.codewars.com/users/fartem.
 | Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
 | Isograms | [Link](https://www.codewars.com/kata/54ba84be607a92aa900000f1) | [Link](./codewars-c-sharp/src/Kyu7/Isograms.cs) |
+| Reverse words | [Link](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4) | [Link](./codewars-c-sharp/src/Kyu7/ReverseWords.cs) |
 
 ### 6 kyu
 
