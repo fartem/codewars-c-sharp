@@ -36,6 +36,7 @@ Profile on Codewars: https://www.codewars.com/users/fartem.
 
 | Name | Link to Codewars | List to solution |
 | --- | --- | --- |
+| CamelCase Method | [Link](https://www.codewars.com/kata/587731fda577b3d1b0001196) | [Link](./codewars-c-sharp/src/Kyu6/CamelCaseMethod.cs) |
 | Replace With Alphabet Position | [Link](https://www.codewars.com/kata/546f922b54af40e1e90001da) | [Link](./codewars-c-sharp/src/Kyu6/ReplaceWithAlphabetPosition.cs) |
 
 ### 5 kyu
