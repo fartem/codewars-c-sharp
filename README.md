@@ -22,6 +22,7 @@ Profile on Codewars: https://www.codewars.com/users/fartem.
 | Multiply | [Link](https://www.codewars.com/kata/50654ddff44f800200000004) | [Link](./codewars-c-sharp/src/Kyu8/Multiply.cs) |
 | Name Shuffler | [Link](https://www.codewars.com/kata/559ac78160f0be07c200005a) | [Link](./codewars-c-sharp/src/Kyu8/NameShuffler.cs) |
 | Parse float | [Link](https://www.codewars.com/kata/57a386117cb1f31890000039) | [Link](./codewars-c-sharp/src/Kyu8/ParseFloat.cs) |
+| simple calculator | [Link](https://www.codewars.com/kata/5810085c533d69f4980001cf) | [Link](./codewars-c-sharp/src/Kyu8/SimpleCalculator.cs) |
 
 ### 7 kyu
 
