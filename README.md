@@ -23,6 +23,7 @@ Profile on Codewars: https://www.codewars.com/users/fartem.
 | Name Shuffler | [Link](https://www.codewars.com/kata/559ac78160f0be07c200005a) | [Link](./codewars-c-sharp/src/Kyu8/NameShuffler.cs) |
 | Parse float | [Link](https://www.codewars.com/kata/57a386117cb1f31890000039) | [Link](./codewars-c-sharp/src/Kyu8/ParseFloat.cs) |
 | simple calculator | [Link](https://www.codewars.com/kata/5810085c533d69f4980001cf) | [Link](./codewars-c-sharp/src/Kyu8/SimpleCalculator.cs) |
+| Vowel remover | [Link](https://www.codewars.com/kata/5547929140907378f9000039) | [Link](./codewars-c-sharp/src/Kyu8/VowelRemover.cs) |
 
 ### 7 kyu
 
